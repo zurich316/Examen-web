@@ -1,0 +1,262 @@
+.header {
+   
+    color: white;
+    font-family: Calibri;
+    margin: 0px;
+}
+.linksHeader {
+    float: right;
+   border-top: 0px;
+   color: #5AC3C3;
+   bottom: 40px;
+ 
+}
+
+.imglogo img
+{
+  
+  float: left;
+  margin-top:5px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 100px;
+  height: 150px;
+}
+
+.logo
+{
+	
+	border-top: 4px solid #648880;
+  text-align: left;
+	float: left;
+	letter-spacing: 5px;
+  line-height: 100%;
+  padding-left: 30px;
+  padding-right: 30px;
+ 
+  	
+  
+	
+}
+body 
+{
+
+  background: #F90659;
+  
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.cuerpo 
+{
+    position: relative;
+}
+
+.titulo
+{
+	color: #64880;
+	margin: 0 auto;
+  	width: 960px;
+  	content: "";
+  	display: block;
+  	clear: both;
+  	margin: 0;
+  	padding: 0;
+  	border: 0;
+  	font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+
+}
+
+.nav {
+  text-align: right;
+}
+.nav li {
+  display: inline-block;
+  margin: 0 10px;
+  vertical-align: top;
+}
+.nav li:last-child {
+  margin-right: 0;
+}
+
+
+
+
+.group:before,
+.group:after {
+  content: "";
+  display: block;
+}
+.group:after {
+  clear: both;
+}
+.group {
+  clear: both;
+}
+
+.cuerpo
+{	
+  text-align: center;
+  background: #FFF;
+  
+  border: 0px;
+  right: 8px;
+  width: 101.5%;
+  
+
+
+ 
+}
+
+.plantilla
+{
+
+    
+    padding: 1%;
+}
+
+.linksFooter {
+   position: relative;
+   bottom: 40px;
+   float: right;
+   margin-right: 30px;
+   margin-top: 0px;
+   
+   
+}
+
+.forms
+{
+	text-align: left;
+
+}
+
+input,select,textarea
+{
+	border-radius: 69px;
+
+}
+
+.titu
+{
+	padding-top: 50px;
+	
+}
+
+.izq h1, h5,p
+{
+	text-align: left;
+	padding-left: 60px;
+	
+}
+
+.letraTitulo
+{
+	text-align: center;
+}
+
+.cuadro
+{
+  width: 20%;
+  min-height: 200px;
+  margin: 25px;
+}
+
+.cuadrado1
+{
+	float: left;
+	
+}
+
+.cuadrado2
+{
+  float: right;
+  
+}
+
+.cuadrado3
+{
+  float: right;
+  width: 35%;
+  min-height: 200px;
+  margin: 25px;
+  
+}
+
+
+.cuadrado4
+{
+	float: left;
+	width: 50%;
+	min-height: 200px;
+	margin: 20px;
+}
+.container
+{
+
+	
+	
+}
+
+.ima img
+{
+	width: 150px;
+	height: 150px;
+}
+
+.map img
+{
+	width: 600px;
+	height: 250px;
+}
+
+
+.tabla table
+{
+  margin-right: 20px;
+
+   text-align:center;
+}
+
+.td {
+    text-align: right;
+}
+
+.tr {
+    background-color: black;
+    color: white;
+    border-bottom: medium;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.publicidad img
+{
+  position: fixed;
+  margin-top: 300px;
+  margin-left: 150px;
+  padding: 5px;
+  background-color: grey;
+  border:  5px solid; 
+  z-index: 1;
+}
+
+div.centrado{ 
+text-align: center; 
+padding: 30px;
+} 
+div.centrado table { 
+margin: 0 auto; 
+text-align: left; 
+border: 30px;
+} 
+
+.centro th
+{
+  height: 50px; 
+  width:50px;
+  text-align:center; 
+  vertical-align:middle;
+}
